@@ -1,16 +1,23 @@
-## Hi there 👋
+### Positioning
+I answer one question: did your last LLM release make the product better
+or worse?
 
-<!--
-**shumakove/shumakove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm working on
 
-Here are some ideas to get you started:
+I build evaluation systems for LLM applications: golden datasets, retrieval and
+hallucination metrics, and regression suites that run on every pull request.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+8 years of test automation taught me that the hard part was never running
+the tests — it's being able to say, quickly and honestly, whether the last change
+made the product better. That question got much harder when outputs stopped being
+deterministic. That's why I'm here.
+
+
+### Projects
+
+
+### Background
+* 15 years in QA in QA 
+* −70% test costing
+* 100+ QA engineers were managed,
+* 30+ products at the same time
