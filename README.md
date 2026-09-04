@@ -17,7 +17,7 @@ deterministic. That's why I'm here.
 
 
 ### Background
-* 15 years in QA in QA 
+* 15 years in QA
 * −70% test costing
 * 100+ QA engineers were managed,
 * 30+ products at the same time
